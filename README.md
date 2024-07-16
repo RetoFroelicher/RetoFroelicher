@@ -6,4 +6,4 @@
 - 🌱 I deepen my knowledge in various programming languages such as PHP, Node.js, React, React native, Ruby, Java, Kotlin, Python and everything's interessting
 - 👯 I want to empower young people to become programmers
 - 💬 Ask me about anything you like
-- ⚡ Fun fact: In addition to programming, I am an active paraglider pilot and ventilate my head while flying.
+- ⚡ Fun fact: To balance out the programming, I am an active paraglider pilot and let my thoughts run free while flying.
